@@ -1,11 +1,16 @@
 {
   "expo": {
     "name": "analyzer",
+    "icon": "./assets/Icons/rust.png",
     "slug": "analyzer",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "",
+    "android": {
+      "package": "com.batch_7.Analyser"
+    }
   },
   "name": "analyzer"
 }
